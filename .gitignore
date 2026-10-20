@@ -1,0 +1,25 @@
+# ── Generated / downloaded binaries ──────────────────────────────
+/engine/
+/Windows/bin/
+/Linux/bin/
+/Mac/bin/
+/downloads/
+/ollama/
+/ollama-data/
+
+# ── DCS translator (large third-party download, fetched on demand) ──
+/tools/miz-translator/
+/tools/miz-translator-release.zip
+
+# ── Personal data (API keys, chats, logs) ─────────────────────────
+/data/
+
+# ── macOS junk ────────────────────────────────────────────────────
+.DS_Store
+
+# ── PowerShell portable-profile cache ─────────────────────────────
+/Microsoft/
+
+# ── Node.js ───────────────────────────────────────────────────────
+node_modules/
+npm-debug.log*
